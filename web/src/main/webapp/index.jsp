@@ -12,7 +12,7 @@
 </head>
 <body>
 	<p></p> 
-	<h1>Auto deploy GIT</h1>
+	<h1>Auto deploy from Local</h1>
 <h1>hi i am just pushed from the developer machine</h1>
   <p>
     This is a very simple example web page on a JSP.
